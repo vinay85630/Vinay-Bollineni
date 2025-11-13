@@ -12,3 +12,6 @@ https://www.linkedin.com/in/vinay-bollineni-0abbb9287/
 Current Projects;
 https://github.com/vinay85630/IOT
 https://github.com/vinay85630/dataorchestrstion
+
+Skills;
+AWS;Docker;GCP;Javascript;MongoDB;PYTHON;MYSQL;JAVA
