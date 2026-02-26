@@ -4,7 +4,7 @@
 . I'm Currently Working in IbexLabs
 
 - 🚗 Working on **AutoVision Cloud** 
-- 📫 Reach me: bollinenivinay85@gmail.com
+- 📫 How To Reach me - bollinenivinay85@gmail.com
 
  Connect with me:
 https://www.linkedin.com/in/vinay-bollineni-0abbb9287/
