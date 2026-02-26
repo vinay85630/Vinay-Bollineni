@@ -3,8 +3,6 @@
 
 . I'm Currently Working in IbexLabs
 
-📫 Reach me at *bollinenivinay85@gmail.com
-
 - 🚗 Working on **AutoVision Cloud**
 - 📫 Reach me: bollinenivinay85@gmail.com
 
