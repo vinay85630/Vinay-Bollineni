@@ -4,7 +4,6 @@
 . I'm Currently Working in IbexLabs
 
 📫 Reach me at *bollinenivinay85@gmail.com
-<h1 align="center">Hi 👋, I'm Vinay Bollineni</h1>
 
 - 🚗 Working on **AutoVision Cloud**
 - 📫 Reach me: bollinenivinay85@gmail.com
